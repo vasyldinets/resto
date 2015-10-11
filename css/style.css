@@ -380,7 +380,7 @@ textarea {
 	display: block;
 	width:100%;
 }
-.ba-gallery_img:hover {
+.ba-gallery_img:hover img {
 	opacity: .65;
 }
 /*end Gallery*/
