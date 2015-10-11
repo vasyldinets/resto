@@ -336,6 +336,7 @@ textarea {
 	margin-top: 80px;
 	margin-bottom: 30px;
 	width:100%;
+	height: 100%;
 }
 .ba-featured-price{
 	margin: 0;
@@ -379,8 +380,9 @@ textarea {
 .ba-gallery_img img {
 	display: block;
 	width:100%;
+	height: 100%;
 }
-.ba-gallery_img:hover {
+.ba-gallery_img:hover img  {
 	opacity: .65;
 }
 /*end Gallery*/
