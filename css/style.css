@@ -382,7 +382,11 @@ textarea {
 	width:100%;
 	height: 100%;
 }
+<<<<<<< HEAD
 .ba-gallery_img:hover img  {
+=======
+.ba-gallery_img:hover img {
+>>>>>>> 065860f4f7b6cef68cc3028c1eb84a55fe48582d
 	opacity: .65;
 }
 /*end Gallery*/
