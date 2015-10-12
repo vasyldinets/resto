@@ -390,6 +390,7 @@ textarea {
 .ba-container--footer{
 	padding-top:100px;
 	padding-bottom: 70px;
+	margin-top:100px;
 	background-color:#3b3b3b;
 }
 .ba-grid .ba-width-large-1-4-mod{
